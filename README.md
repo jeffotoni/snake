@@ -27,8 +27,6 @@ Snake v7 is a compact game project focused on the core mechanics that make Snake
 
 ![Snake gameplay preview](./snake.jpeg)
 
-> The current preview uses `snake.jpeg`. It can be replaced later with an animated GIF using the same filename or by updating this README image path.
-
 ---
 
 ## Requirements
